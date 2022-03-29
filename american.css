@@ -1,0 +1,25 @@
+body{
+    padding:20px;
+}
+.whitestripe{
+    height: 50px;
+    width:1400px;
+    background-color: whitesmoke;
+}
+.redstripe{
+    height: 50px;
+    width:1400px;
+    background-color:rgb(180, 47, 69);
+}
+.blue{
+    background-color:rgb(28, 28, 173);
+    height:350px;
+    width:450px;
+    float:left;
+   
+} 
+table td{
+    font-size: 40px;
+    color:white;
+    margin-left: 100px;
+}
