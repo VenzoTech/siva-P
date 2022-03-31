@@ -1,0 +1,159 @@
+body{
+    background-color:#f0e6ea;
+    opacity:10px;
+}
+body h3{
+    color:rgba(0, 0, 0, 0.712);
+    font-size: 40px;
+    margin-left: 200px;
+    position: absolute;
+    top:60px;
+}
+body h4{
+    color:rgba(0, 0, 0, 0.712);
+    font-size: 18px;
+    margin-left: 200px;
+    position: absolute;
+    top:140px;
+}
+body ul{
+    list-style: None;
+    position:absolute;
+    left:500px; 
+    top:130px;
+}
+body li{
+    display:inline-block;
+    padding:20px;
+}
+a:hover{
+    color:#0ce0f7;
+    font-weight: 300px;
+}
+body h1{
+    color:rgba(0, 0, 0, 0.712);
+    position: absolute;
+    font-size: 60px;
+    top:250px;
+    left:630px;
+}
+#main{
+    width:500px;
+    height:200px;
+    display:flex;
+    flex-flow:row- wrap; 
+    padding: 20px;
+    gap:40px;
+    position:absolute;
+    left:620px;
+    top:430px;
+}
+#main div{
+   height:150px;
+   width:150px;
+   border-radius: 50%;
+}
+#main div h3{
+    font-size: 20px;
+    position: absolute;
+    left:-173px;
+    color:white;
+}
+ #f {
+    width:1830px;
+    height:90px;
+    display:flex;
+    flex-flow:row -wrap; 
+    gap:10px;
+    position:absolute;
+    top:830px;
+    background-color: #f8255a;
+}
+
+#f div{
+   height:60px;
+   width:60px;
+   margin-left: 300px;
+   border-radius: 30px;
+   margin-top:15px;
+}
+#i1{
+    color:white;
+    position: absolute;
+    left:320px;
+    top:30px;
+    font-size:30px;
+}
+#i2{
+    color:#f0e6ea;
+    position: absolute;
+    left:684px;
+    top:28px;
+    padding:1px;
+    font-size:30px;
+}
+#i3{
+    color:#f0e6ea;
+    position: absolute;
+    left:1057px;
+    top:30px;
+    padding:1px;
+    font-size:30px;
+}
+#i4{
+    color:#f0e6ea;
+    position: absolute;
+    left:1428px;
+    top:28px;
+    padding:1px;
+    font-size:30px;
+}
+#f div #h{
+    position: absolute;
+    top:-9px;
+    left:380px;
+    font-size: 13px;
+    color: #ffffff;
+
+}
+#f div #hh{
+    position: absolute;
+    top:-2px;
+    left:750px;
+    font-size: 13px;
+    color: #ffffff;
+
+}
+#f div #hhh{
+    position: absolute;
+    top:-2px;
+    left:1120px;
+    font-size: 13px;
+    color: #ffffff;
+
+}
+#f div #hhhh{
+    position: absolute;
+    top:8px;
+    left:1450px;
+    font-size: 10px;
+    color: #ffffff;
+    margin-left: 20px;
+
+}
+ img{
+    position: absolute;
+    width:500px;
+    height:500px;
+    top:280px;
+    left:100px;
+    border-radius: 50%;
+    border:3px solid black 0.5%;
+    opacity: 80%;
+}
+ body #intro{
+     position: absolute;
+     top:330px;
+     left:430px;
+}
+
